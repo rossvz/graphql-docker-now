@@ -1,0 +1,20 @@
+{
+  "name": "@sellr/now-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "mico": "0.1.0-0",
+    "micro": "^9.3.2",
+    "micro-cors": "^0.1.0"
+  }
+}
