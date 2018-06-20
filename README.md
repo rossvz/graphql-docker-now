@@ -5,5 +5,6 @@ This is an extremely basic project that tests a few things:
 - using GraphQL to return data
 - GraphQL/Apollo client with React
 
-Client: graphql-client-pyjpfzvfua.now.sh
-API: now-docker-moqmqkiern.now.sh
+
+- Client: graphql-client-pyjpfzvfua.now.sh
+- API: now-docker-moqmqkiern.now.sh
